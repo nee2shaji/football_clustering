@@ -7,4 +7,10 @@
 - Analysis of clusters added
 - Used packages numpy, pandas, matplotlib, seaborn, Scikit-learn and scipy.
 
+## Contributors
+
+- S. Sravya Vardhani
+- Neethu Shaji
+
+
 
